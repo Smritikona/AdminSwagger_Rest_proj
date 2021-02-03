@@ -1,0 +1,30 @@
+2021-02-03 18:12:03,988 INFO  [log] bearer 308a39bc93d8a1ae33e392ffbdead787e134a9d3
+2021-02-03 18:12:04,078 INFO  [log] [HTTP/1.1 200 OK]
+2021-02-03 18:12:04,781 INFO  [log] total number of rows containing data are 2
+2021-02-03 18:12:04,800 INFO  [log] current username is upskills_admin
+2021-02-03 18:12:04,800 INFO  [log] current password is Talent4$$
+2021-02-03 18:12:05,263 INFO  [log] [HTTP/1.1 200 OK]
+2021-02-03 18:12:05,285 INFO  [log] upskills_admin
+2021-02-03 18:12:05,732 INFO  [log] [HTTP/1.1 200 OK]
+2021-02-03 18:12:05,775 INFO  [log] upskills_admin
+2021-02-03 18:12:06,387 INFO  [log] [HTTP/1.1 200 OK]
+2021-02-03 18:12:06,799 INFO  [log] total number of rows containing data are 2
+2021-02-03 18:12:06,800 INFO  [log] current username is upskills_admin
+2021-02-03 18:12:06,802 INFO  [log] current password is Talent4$$
+2021-02-03 18:12:07,255 INFO  [log] [HTTP/1.1 200 OK]
+2021-02-03 18:12:07,300 INFO  [log] upskills_admin
+2021-02-03 18:12:07,621 INFO  [log] total number of rows containing data are 2
+2021-02-03 18:12:07,622 INFO  [log] current name is Computers & Accessories
+2021-02-03 18:12:07,624 INFO  [log] current title is Computers & Accessories
+2021-02-03 18:12:07,628 INFO  [log] current description is Description of the Computers & Accessories
+2021-02-03 18:12:08,085 INFO  [log] [HTTP/1.1 200 OK]
+2021-02-03 18:12:08,168 INFO  [log] 2196
+2021-02-03 18:12:08,407 INFO  [log] total number of rows containing data are 2
+2021-02-03 18:12:08,414 INFO  [log] current model is Lenovo Ideapad Laptop
+2021-02-03 18:12:08,414 INFO  [log] current keyword is 1000
+2021-02-03 18:12:08,415 INFO  [log] current keyword is 44000
+2021-02-03 18:12:08,418 INFO  [log] current keyword is Lenovo IdeaPad S100
+2021-02-03 18:12:08,419 INFO  [log] current keyword is Lenovo IdeaPad S100
+2021-02-03 18:12:08,876 INFO  [log] [HTTP/1.1 200 OK]
+2021-02-03 18:12:09,332 INFO  [log] [HTTP/1.1 200 OK]
+2021-02-03 18:12:09,406 INFO  [log] 3452
